@@ -1,0 +1,23 @@
+{
+    "name": "Travel Explorer",
+    "short_name": "Travel Explorer",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F766E",
+    "theme_color": "#0F766E",
+    "description": "Découvrez et planifiez vos voyages de rêve.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

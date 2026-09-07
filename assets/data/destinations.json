@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d1",
+    "name": "Kribi",
+    "country": "Cameroun",
+    "category": "Plage",
+    "imageUrl": "https://picsum.photos/seed/kribi/900/600",
+    "description": "Kribi séduit par ses plages de sable fin, ses chutes de la Lobé qui se jettent directement dans l'océan, et sa cuisine de fruits de mer réputée dans toute l'Afrique centrale.",
+    "rating": 4.6,
+    "pricePerNight": 45000,
+    "durationDays": 3,
+    "tags": ["plage", "détente", "fruits de mer"]
+  },
+  {
+    "id": "d2",
+    "name": "Foumban",
+    "country": "Cameroun",
+    "category": "Ville",
+    "imageUrl": "https://picsum.photos/seed/foumban/900/600",
+    "description": "Capitale historique du royaume Bamoun, Foumban est célèbre pour son palais royal, son artisanat en bronze et ses marchés d'art traditionnel.",
+    "rating": 4.4,
+    "pricePerNight": 25000,
+    "durationDays": 2,
+    "tags": ["culture", "artisanat", "histoire"]
+  },
+  {
+    "id": "d3",
+    "name": "Mont Cameroun",
+    "country": "Cameroun",
+    "category": "Montagne",
+    "imageUrl": "https://picsum.photos/seed/montcameroun/900/600",
+    "description": "Le plus haut sommet d'Afrique de l'Ouest offre une randonnée volcanique spectaculaire à travers forêts tropicales et paysages lunaires.",
+    "rating": 4.8,
+    "pricePerNight": 30000,
+    "durationDays": 4,
+    "tags": ["randonnée", "volcan", "aventure"]
+  },
+  {
+    "id": "d4",
+    "name": "Parc de Waza",
+    "country": "Cameroun",
+    "category": "Nature",
+    "imageUrl": "https://picsum.photos/seed/waza/900/600",
+    "description": "Un des plus grands parcs animaliers d'Afrique centrale, refuge d'éléphants, lions et girafes dans la savane du Grand Nord.",
+    "rating": 4.5,
+    "pricePerNight": 55000,
+    "durationDays": 3,
+    "tags": ["safari", "faune", "nature"]
+  },
+  {
+    "id": "d5",
+    "name": "Zanzibar",
+    "country": "Tanzanie",
+    "category": "Plage",
+    "imageUrl": "https://picsum.photos/seed/zanzibar/900/600",
+    "description": "Îles paradisiaques aux eaux turquoise, ruelles épicées de Stone Town et plantations d'épices centenaires.",
+    "rating": 4.9,
+    "pricePerNight": 90000,
+    "durationDays": 5,
+    "tags": ["plage", "iles", "détente"]
+  },
+  {
+    "id": "d6",
+    "name": "Marrakech",
+    "country": "Maroc",
+    "category": "Ville",
+    "imageUrl": "https://picsum.photos/seed/marrakech/900/600",
+    "description": "La ville rouge envoûte avec ses souks animés, ses riads raffinés et la majestueuse place Jemaa el-Fna.",
+    "rating": 4.7,
+    "pricePerNight": 60000,
+    "durationDays": 4,
+    "tags": ["culture", "shopping", "architecture"]
+  },
+  {
+    "id": "d7",
+    "name": "Sahara — Merzouga",
+    "country": "Maroc",
+    "category": "Désert",
+    "imageUrl": "https://picsum.photos/seed/merzouga/900/600",
+    "description": "Nuits étoilées sur les dunes dorées de l'Erg Chebbi, bivouac berbère et méharées au coucher du soleil.",
+    "rating": 4.8,
+    "pricePerNight": 70000,
+    "durationDays": 2,
+    "tags": ["désert", "aventure", "étoiles"]
+  },
+  {
+    "id": "d8",
+    "name": "Cap Town",
+    "country": "Afrique du Sud",
+    "category": "Aventure",
+    "imageUrl": "https://picsum.photos/seed/capetown/900/600",
+    "description": "Entre Table Mountain, Cap de Bonne-Espérance et vignobles du Cap, une aventure entre nature et découvertes urbaines.",
+    "rating": 4.7,
+    "pricePerNight": 85000,
+    "durationDays": 6,
+    "tags": ["aventure", "nature", "vin"]
+  },
+  {
+    "id": "d9",
+    "name": "Douala",
+    "country": "Cameroun",
+    "category": "Ville",
+    "imageUrl": "https://picsum.photos/seed/douala/900/600",
+    "description": "Poumon économique du Cameroun, Douala vibre au rythme de son marché central, de sa scène musicale et de sa gastronomie de rue.",
+    "rating": 4.1,
+    "pricePerNight": 35000,
+    "durationDays": 2,
+    "tags": ["ville", "gastronomie", "affaires"]
+  },
+  {
+    "id": "d10",
+    "name": "Dja",
+    "country": "Cameroun",
+    "category": "Nature",
+    "imageUrl": "https://picsum.photos/seed/dja/900/600",
+    "description": "Réserve de biosphère classée à l'UNESCO, la forêt du Dja abrite gorilles, chimpanzés et une biodiversité exceptionnelle.",
+    "rating": 4.6,
+    "pricePerNight": 40000,
+    "durationDays": 3,
+    "tags": ["forêt", "biodiversité", "unesco"]
+  }
+]
